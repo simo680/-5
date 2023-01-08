@@ -1,2 +1,2 @@
 # SCHOOL-BUS
-КТ по предмету HTML/CSS
+КТ5 HTML/CSS
